@@ -7,8 +7,8 @@
 
 JETTY_PORT=8983
 
-SOLR_ROOT='/path/to/solr/'
-SOLR_HOME='${SOLR_ROOT}solr'
+SOLR_ROOT='/path/to/solr/example/'
+SOLR_HOME='${SOLR_ROOT}solr/'
 
 SOLR_MEMORY=2048m
 
